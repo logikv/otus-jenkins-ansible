@@ -1,5 +1,1 @@
-all:
-  hosts:
-    otus.ru:
-    ya.ru:
-    google.com:
+localhost
