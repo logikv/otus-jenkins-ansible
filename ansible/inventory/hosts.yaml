@@ -1,3 +1,5 @@
 all:
   hosts:
-    0.0.0.0:
+    otus.ru:
+    ya.ru:
+    google.com:
